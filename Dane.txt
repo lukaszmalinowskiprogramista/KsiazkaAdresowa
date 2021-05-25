@@ -1,0 +1,5 @@
+1|Artur|Nowak|333 222 111|artur@nowak.pl|ul. Wesoła 3a; 33-300 Krakow|
+2|Bartek|Głowacki|333 222 111|bartek@glowacki.pl|ul. Słoneczna 61; 33-330 Kraków|
+3|Agata|Wiśniewska|444 222 111|agata@wisniewska.pl|ul. Piękna 7/8; 33-300 Krakow|
+4|lukasz|malinowski|666|666|66|
+5|Franciszek|kimono|111|franekemail|japonia|

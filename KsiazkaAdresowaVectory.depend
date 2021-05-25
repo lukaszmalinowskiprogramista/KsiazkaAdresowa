@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1621552070 source:c:\przyszlyprogramista\cpp\wdrazamystrukturydanychdoksiazkiadresowej\ksiazkaadresowavectory\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<algorithm>
+
+1621853642 source:c:\przyszlyprogramista\cpp\20210521 wdrazamystrukturydanychdoksiazkiadresowej\ksiazkaadresowavectory\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<algorithm>
+
